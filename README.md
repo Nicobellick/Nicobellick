@@ -15,6 +15,8 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
----
+
 🕵️ GitHub Stats
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicobellick&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
