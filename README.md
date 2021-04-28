@@ -1,11 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nico, a web developper located in Aix en Provence, France. Specialized in JavaScript with React.js as front-end framework / library (or whatever) and Node.js & Express as Back-end framework.
+Find me here : <a href="https://www.linkedin.com/in/nicolas-soumier-35b1a3196/"> <img align="center" width="35px" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
+
 I did a formation at the Wild Code School in remote for 5 months, during this time I did 3 main projects in team :
 
--Minimal
+- Minimal
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicobellick&repo=Minimal-front&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/Nicobellick/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicobellick&repo=Minimal-back&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/Nicobellick/github-readme-stats">
 
--GreenPeas
+- GreenPeas
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicobellick&repo=Greenpeas&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/Nicobellick/github-readme-stats">
 
