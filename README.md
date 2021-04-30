@@ -10,8 +10,7 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 - GreenPeas
 
 <a href="https://github.com/Nicobellick/Greenpeas"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicobellick&repo=Greenpeas&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/Nicobellick/github-readme-stats"></a>
-
-Le site à été déployé <a href="https://eager-wright-9ec40d.netlify.app/">Ici</a>
+You can view this project <a href="https://eager-wright-9ec40d.netlify.app/">here</a>
 
 - Hackaton 1
 
