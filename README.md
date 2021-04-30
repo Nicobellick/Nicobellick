@@ -5,6 +5,8 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 
 - Minimal
 
+This project is not deployed beacuse it's unfinished.
+
 <a href="https://github.com/Nicobellick/Minimal-front"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicobellick&repo=Minimal-front&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/Nicobellick/github-readme-stats"></a><a href="https://github.com/Nicobellick/Minimal-back"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nicobellick&repo=Minimal-back&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/Nicobellick/github-readme-stats"></a>
 
 - GreenPeas
